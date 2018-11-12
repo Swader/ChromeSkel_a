@@ -1,4 +1,4 @@
-##License
+## License
 
 Copyright 2012 Bruno Škvorc
 
